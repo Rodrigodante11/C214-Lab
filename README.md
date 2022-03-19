@@ -9,10 +9,13 @@
 
 ### Execucao
 <p>Estando no diretorio da aula 2 ou aula 3 instale as bibliotecas com comando no terminal: </p>
+
 ```
  npm install 
 ```
+
   e depois o comando para executar:
+  
 ```
 npm start
 ```
@@ -32,6 +35,7 @@ O arquivos js sao onibus.js e caminhao que herdam os taributos e metodos da clas
 
 
 <p> Na terceira aula , foi introduzido alguns conceitos de node js usando uma calculado e o validate.js do proprio node </br> onde é feito uma validacao para confirmas se a varivel contem um numero para poder calcular </p>
+
 - [x] Exercicio 3 :notebook: 
 Na pasta Aula-3-exercicio existe 5 arquivos o index.js que eh o arquivo principal 
 
