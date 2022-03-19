@@ -1,4 +1,5 @@
 <h1 aligh="center"> Exercicios do laboratorio de C214<h2>
+
 ### Pre requisitos para a execucao:
 - IDE para a execucao de codigos js e HTML
 - npm
@@ -29,7 +30,7 @@ O arquivos js sao onibus.js e caminhao que herdam os taributos e metodos da clas
 
 
 <p> Na terceira aula , foi introduzido alguns conceitos de node js usando uma calculado e o validate.js do proprio node onde é feito uma validacao para confirmas se a varivel contem um numero para poder calcular
--[x] Exercicio 3 
+-[x] Exercicio 3 :notebook:
 Na pasta Aula-3-exercicio existe 5 arquivos o index.js que eh o arquivo principal 
 -package.json com a versão do node com nome do projeto, descrição, versao , author e licensa
 -package-lock.json com as dependencias do projeto
