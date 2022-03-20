@@ -5,7 +5,7 @@
 - npm
 ### Instalacao 
 - necessario a instalacao do node js (https://nodejs.org/en/)
-### :mag_right: Descricao dos exercicio 1 
+### :mag_right: Descricao dos exercicio 2
 
 ### Execucao
 <p>Estando no diretorio da aula 2 ou aula 3 instale as bibliotecas com comando no terminal: </p>
@@ -15,10 +15,12 @@
 ```
 
   e depois o comando para executar:
-  
+
 ```
 npm start
 ```
+
+### :mag_right: Descricao dos exercicio 3
 
 <p> Na segunda aula , foi introduzido sobre POO utilizando a linguagem java script no qual a pasta exercicio se faz exercicios sobre o mesmo</p>
 
