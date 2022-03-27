@@ -52,3 +52,34 @@ Na pasta Aula-3-exercicio existe 5 arquivos o index.js que eh o arquivo principa
 - Divisão
 - Subtracão
 - resto de divisão 
+
+### :mag_right: Descricao dos exercicio 4 (aula6)
+
+<p> Nesse exercicio foi feito uma persistencia de dados com MongoDB clound com um  Crud basico(CREATE, LIST , UPDATE E DELETE) Usando </p>
+
+- post(Create)
+- put(update)
+- get(list)
+- delete(delete)
+
+Atributos do Model
+- id (gerado automaticamente e unico)
+- nome: String
+- color: String,
+- doorQtd: String
+- license_plate: String
+
+Em cars repositorio existem varios metodos que sao os CRUD
+EM carApi contem a comunicacao quando chama o endereco especifico por exemplo cars/create , cars/update 
+
+Comandos importantese necessários:
+
+```
+npm install --save expressnpm 
+install --save corsnpm 
+install--save http-status-codesnpm 
+install--save validate.jsnpm 
+install--save moongosenpm 
+install--save uuid
+```
+
