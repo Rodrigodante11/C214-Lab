@@ -4,14 +4,14 @@ const Utils = require('../utils/utils');
 const Constants = require('../utils/constants');
 const CarsRepository = require('../port/cars_repository');
 const Constraints = require('../utils/cars_validation');
+const Validation =  require('../utils/validation');
 
 const Cars = {
     async create(data) {
         try {
-            const validation = validate.validate(data, Constraints.create);
+            const validation = Validation.create(data)
             if (validation) {
-                const response = Constants.ErrorValidation;
-                response.message = validation;
+                
                 return response;
             }
 
